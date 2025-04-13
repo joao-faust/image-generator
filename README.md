@@ -10,6 +10,12 @@ the images yet.
 - Express;
 - Canvas.
 
+## How to start the API
+
+```bash
+npm start
+```
+
 ## Example
 
 ![Api Call Example](./assets/api-call-example.png)
