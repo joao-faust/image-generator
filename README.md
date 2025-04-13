@@ -16,7 +16,7 @@ the images yet.
 npm start
 ```
 
-## Example
+## How to call the API
 
 ![Api Call Example](./assets/api-call-example.png)
 
