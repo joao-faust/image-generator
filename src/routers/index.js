@@ -1,6 +1,6 @@
 const { Router } = require("express");
 const { createCanvas } = require("canvas");
-const { isNumeric } = require("../functions/utils");
+const { isNumeric } = require("../services/utils");
 
 const router = Router();
 
